@@ -1,23 +1,23 @@
 ========== HEADER ==========
 .nav__logo-circle
-R
+J
 
 .nav__logo-name
-Rian Lot.
+John Klockenkemper.
 
 .nav__title
 Menu
 
 .nav__name
-Rian
+John
 
 .nav__link
-Home - About Me - Projects - Contact Me
+Home - About Me - 3d Prints - Contact Me
 
 
 ========== HOME ==========
 .home__name
-Rian Lot
+John Klockenkemper
 
 .home__social-link
 https://www.instagram.com/
@@ -25,9 +25,7 @@ https://www.linkedin.com/
 https://github.com/
 
 .home__description
-<b>Frontend Developer</b>, with knowledge in web 
-development and design, I offer the best 
-projects resulting in quality work.
+<b>Director of Engineering & Security</b>, with extensive knowledge and experience working in the MSP world. I have spent my career working with Enterprise size clients and all the headaches that come with that :)
 
 .home__scroll-text
 Scroll Down
@@ -38,15 +36,11 @@ Scroll Down
 About Me.
 
 .about__description
-Passionate about creating <b>Web Pages</b> with 
-<b>UI/UX User Interface</b>, I have years of 
-experience and many clients are happy with 
-the projects carried out.
+Passionate about solving <b>Hard Problems</b> at 
+<b>Huge Scale</b>, I have the grit and knowledge to build foundations that last longer than I do. Customer Experience is the most imporant feature for me as well as the goal all along. 
 
 .about__item
-<b>My Skills Are:</b> HTML, CSS, JavaScript, 
-React, Git & GitHub, Bootstrap, Flutter & 
-Figma.
+<b>My Skills Are:</b> Leading teams, managing people, building roadmaps, setting vision, solving hard problems, and doing it once. 
 
 .button
 Contact Me
