@@ -170,7 +170,3 @@ EmailJS team
 ========== FOOTER ==========
 .footer__links
 Home - About - Projects
-
-.footer__copy
-&#169; All Rights Reserved By 
-<a href="#">Bedimcode.</a>
